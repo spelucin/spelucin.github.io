@@ -1,0 +1,18 @@
+# Has encontrado el huevo de pascua secreto. Te dejo un regalo: https://open.spotify.com/playlist/3yA8H65lp0SiD1knOeBGrq?si=4e855b33d0f74edd
+# 
+#              _         _                 
+#  ___ ___ ___| |_ _ ___|_|___   _____ ___ 
+# |_ -| . | -_| | | |  _| |   |_|     | -_|
+# |___|  _|___|_|___|___|_|_|_|_|_|_|_|___|
+#     |_|                                  
+
+User-agent: *
+Disallow: /admin/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+Sitemap: https://spelucin.me/sitemap.xml
