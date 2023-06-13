@@ -142,7 +142,7 @@ XPath tiene algunas funciones muy útiles para procesar la data extraída, así 
 | ----- | ------------------------------------------------- | --------------------------- |
 | \*    | Cualquier elemento. Funciona como comodín general | //*\[@class="mi-clase"]     |
 | @*    | Cualquier atributo.                               | //div\[@*]                  |
-| \|    | Operador "O" (para usar más de una expresión).    | (//a/text() | //a/img/@alt) |
+| \|    | Operador "O" (para usar más de una expresión).    | (//a/text() \| //a/img/@alt) |
 
 ¡Genial! Ya estás listo para armar tus propias consultas XPath y extraer data de la web 🎊🎊.
 
