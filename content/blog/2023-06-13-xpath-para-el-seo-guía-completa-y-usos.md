@@ -110,17 +110,15 @@ Esto nos devolverá (dependiendo de la aplicación y de lo específico que seamo
 
 #### Predicates
 
-Los predicates de XPath sirven para encontrar un nodo específico o un valor específico dentro de un set de nodos. Aquí es donde la cosa se pone interesante, ya que con los predicates nos permiten construir consultas màs avanzadas y precisas. Los predicates más útiles son:
+Los predicates de XPath sirven para encontrar un nodo específico o un valor específico dentro de un set de nodos. Aquí es donde la cosa se pone interesante, ya que con los predicates nos permiten construir consultas más avanzadas y precisas. Los predicates más útiles son:
 
-| Expresión                  | Descripció                                                                                 |
+| Expresión                  | Descripción                                                                                |
 | -------------------------- | ------------------------------------------------------------------------------------------ |
 | //title\[@lang]            | Selecciona el primer elemento de libro que es hijo del elemento "librería"                 |
 | //title\[@lang='en']       | Selecciona todos los elementos de título que tienen un atributo "lang" con un valor de "en |
 | /bookstore/book\[1]        | Selecciona el primer elemento de libro que es hijo del elemento "bookstore"                |
 | /bookstore/book\[last()]   | Selecciona el último elemento de libro que es hijo del elemento "bookstore".﻿              |
 | /bookstore/book\[last()-1] | Selecciona el penúltimo elemento de libro que es hijo del elemento "bookstore              |
-
-
 
 Existen algunos predicates más, pero no los he dejado aquí porque no son muy útiles con archivos HTML. Puedes ver la lista de predicates completos en la [página de W3Schools sobre la sintaxis de XPath](https://www.w3schools.com/xml/xpath_syntax.asp).
 
@@ -162,12 +160,12 @@ En ella, haremos clic en "Añadir". Nos aparecerá una nueva fila en la parte ce
 
 * La primera casilla corresponde al nombre del extractor. Este nombre es el que tendrá la fila dentro de la interfaz de Screaming Frog.
 * El tipo de selector nos permite escoger si deseamos usar XPath, expresiones regulares o selectores de CSS. En este caso, lo dejaremos en XPath.
-* En el siguiente campo colocaremos la expresión XPath que hemps creado. La "X" roja cambiará a un check verde si la expresión es válida.
+* En el siguiente campo colocaremos la expresión XPath que hemos creado. La "X" roja cambiará a un check verde si la expresión es válida.
 * En la última, decidiremos el tipo de extractor:
 
-  * "HTML interno" nos devuelve los tags que están dentro del elemento que se selecciona mediante XPath.
+  * "HTML interno" nos devuelve las etiquetas que están dentro del elemento que se selecciona mediante XPath.
   * "Extraer texto" nos devuelve el texto crudo (sin HTML) que corresponde al elemento seleccionado.
-  * "Extraer elemento HTML" nos dará la etiqueta completa, con todas su clases, ids y demás atributos.
+  * "Extraer elemento HTML" nos dará la etiqueta completa, con todas sus clases, IDs y demás atributos.
   * "Valor de función" solo sirve si vas a usar una función como las de arriba ;).
 
 Volviendo al sitio web de Lazy Oaf, extraeremos todos los nombres de producto y precios que tienen sus páginas de producto. Mi flujo preferido para escribir una consulta XPath es el de abrir las DevTools de Chrome y emplear el inspector con el mouse (Ctrl + Shift + C) para seleccionar el posible elemento a extraer.
