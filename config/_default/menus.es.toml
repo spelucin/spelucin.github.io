@@ -27,7 +27,7 @@
 
 [[main]]
   name = "Contacto"
-  pageRef = "https://tidycal.com/spelucin/seo-exploracion-30-min"
+  url = "https://tidycal.com/spelucin/seo-exploracion-30-min"
   weight = 40
 
 [[main]]
