@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Auditorías SEO"
-  pageRef = "auditorias-seo"
+  name = "Servicios"
+  pageRef = "servicios"
   weight = 10
 
 [[main]]
@@ -27,8 +27,8 @@
 
 [[main]]
   name = "Contacto"
-  pageRef = "contacto"
-  weight = 30
+  pageRef = "https://tidycal.com/spelucin/seo-exploracion-30-min"
+  weight = 40
 
 [[main]]
   name = "LinkedIn"
