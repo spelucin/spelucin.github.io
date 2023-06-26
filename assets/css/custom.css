@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ubuntu Regular';
+    src: url('/fonts/UbuntuRegular.ttf');
+    display: swap;
+}
+
+html {
+    font-family: 'Ubuntu Regular', sans-serif;
+}
