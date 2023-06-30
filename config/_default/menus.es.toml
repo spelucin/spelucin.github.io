@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Servicios"
-  pageRef = "servicios"
+  name = "Consultoría SEO"
+  pageRef = "consultoria-seo"
   weight = 10
 
 [[main]]
