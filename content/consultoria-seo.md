@@ -42,13 +42,13 @@ Como directivo de marketing, adquisición o growth marketing, sabes que el éxit
 
 Mi objetivo es crear una estrategia adaptada a las necesidades de tu negocio. Mi enfoque se basa en los siguientes elementos:
 
-1. Investigación exhaustiva de palabras y temas clave: Identificaré las palabras y temas clave más relevantes y rentables para tu industria y las incorporaremos estratégicamente en tu contenido y estructura web.
+- Investigación exhaustiva de palabras y temas clave: Identificaré las palabras y temas clave más relevantes y rentables para tu industria y las incorporaremos estratégicamente en tu contenido y estructura web.
 
-2. Optimización en página y técnica: Optimizaremos cada aspecto de tu sitio web, desde las etiquetas meta hasta la estructura de enlaces internos, para garantizar una experiencia de usuario agradable y mejorar la clasificación en los motores de búsqueda.
+- Optimización en página y técnica: Optimizaremos cada aspecto de tu sitio web, desde las etiquetas meta hasta la estructura de enlaces internos, para garantizar una experiencia de usuario agradable y mejorar la clasificación en los motores de búsqueda.
 
-3. Creación de contenido de calidad: Generaremos contenido valioso y persuasivo que atraiga a tu audiencia objetivo y resuelva sus necesidades. Este contenido, combinado con técnicas de optimización de palabras clave, aumentará la visibilidad de tu sitio web y generará leads cualificados.
+- Creación de contenido de calidad: Generaremos contenido valioso y persuasivo que atraiga a tu audiencia objetivo y resuelva sus necesidades. Este contenido, combinado con técnicas de optimización de palabras clave, aumentará la visibilidad de tu sitio web y generará leads cualificados.
 
-4. Monitoreo constante: Solo la data nos llevará a la cima de Google. El monitoreo constante permite saber el estado de los esfuerzos y si es necesario re-optimizar o hacer cambios par ano perder nuestras posiciones.
+- Monitoreo constante: Solo la data nos llevará a la cima de Google. El monitoreo constante permite saber el estado de los esfuerzos y si es necesario re-optimizar o hacer cambios par ano perder nuestras posiciones.
 
 ### Mi proceso para llevar el SEO
 
