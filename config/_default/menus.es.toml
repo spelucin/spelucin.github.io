@@ -31,33 +31,6 @@
   weight = 40
 
 [[main]]
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/in/spelucin/"
-  weight = 40
-  [main.params]
-    icon = "linkedin"
-    showName = false
-    target = "_blank"
-
-[[main]]
-  name = "GitHub"
-  url = "https://github.com/spelucin/"
-  weight = 50
-  [main.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
-[[main]]
-  name = "Mastodon"
-  url = "https://mstdn.social/@spelucin"
-  weight = 60
-  [main.params]
-    icon = "mastodon"
-    showName = false
-    target = "_blank"
-
-[[main]]
   identifier = "search"
   weight = 99
   [main.params]
@@ -76,3 +49,30 @@
    name = "Privacidad"
    pageRef = "privacidad"
    weight = 20
+
+[[footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/spelucin/"
+  weight = 30
+  [footer.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  name = "GitHub"
+  url = "https://github.com/spelucin/"
+  weight = 40
+  [footer.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  name = "Mastodon"
+  url = "https://mstdn.social/@spelucin"
+  weight = 50
+  [footer.params]
+    icon = "mastodon"
+    showName = false
+    target = "_blank"
