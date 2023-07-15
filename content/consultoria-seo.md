@@ -14,7 +14,7 @@ showWordCount: false
 ---
 
 {{< lead >}}
-Si tu sitio web se centra en generar leads, oportunidades de venta y/o citas en línea, estoy aquí para ponerte frente a los ojos de tu audiencia ideal. Convierte tu sitio web en una máquina de generación de leads y/o citas en línea con nuestras soluciones personalizadas.
+Si tu sitio web se centra en generar leads, oportunidades de venta y/o citas en línea, estoy aquí para ponerte frente a los ojos de tu audiencia ideal. Convierte tu sitio web en una máquina de generación de leads y/o citas en línea gracias al poder del posicionamiento web.
 {{< /lead >}}
 
 {{< button href="#button" target="_self" >}}

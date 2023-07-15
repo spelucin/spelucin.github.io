@@ -4,6 +4,16 @@
     display: swap;
 }
 
+@font-face {
+    font-family: 'Ubuntu Mono Bold';
+    src: url('/fonts/UbuntuMono-Bold.ttf');
+    display: swap;
+}
+
 html {
     font-family: 'Ubuntu Regular', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu Mono Bold', sans-serif;
 }
