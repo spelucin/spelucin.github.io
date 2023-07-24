@@ -21,4 +21,4 @@ collections:
       - { label: 'External URL', name: 'externalUrl', widget: 'string', required: false }
       - { label: 'Slug', name: 'slug', widget: 'string' }
       - { label: 'Tags', name: "tags", widget: "list", summary: '{{fields.name}}', field: {label: Name, name: name, widget: string} }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown' } 
