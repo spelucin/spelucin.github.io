@@ -1,5 +1,5 @@
 [build]
-  command = "hugo mod get -u && hugo --gc --minify -b $URL --disableFastRender"
+  command = "hugo mod get -u && hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
