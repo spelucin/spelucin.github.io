@@ -11,9 +11,9 @@ tags:
   - xml
   - google sheets
 ---
-Una de las cosas más maravillosas acerca de Google Sheets es que es una aplicación web que está conectada a la internet y puede interactuar con otros sitios web y API. Esto viene siendo muy útil cuando necesitamos extraer data de sitios web, y gracias a la fórmula `IMPORTXML` se puede escalar esta tarea a miles de URL. En esta guía aprenderemos a utilizarla para scrapear la internet y obtener la data que queramos de cualquier página web.
+Una de las ventajas más asombrosas de Google Sheets es que es una aplicación web que está conectada a internet y puede interactuar con otros sitios web y API. Esto viene siendo muy útil cuando necesitamos extraer data de sitios web, y gracias a la fórmula `IMPORTXML` se puede escalar esta tarea a miles de URL. En esta guía aprenderemos a utilizarla para scrapear la internet y obtener la data que queramos de cualquier página web.
 
-## ¿Cómo funciona la fórmula IMPORTXML?
+## ¿Qué funcionamiento tiene la fórmula IMPORTXML?
 
 La fórmula `IMPORTXML` funciona como cualquier otra fórmula de Google Sheets, en donde se invoca usando el símbolo `=` y luego el nombre de la fórmula. Luego de su llamada, nos aparece un mensaje de `Loading...` que nos indica que nuestra llamada está cargando. Una vez termine de cargar, si es que la llamada fue exitosa, aparece el contenido que estamos utilizando.
 
@@ -108,7 +108,7 @@ Esta fórmula nos brinda el contenido de la etiqueta canonical de cualquier siti
 
 ### Extrayendo los valores del atributo `hreflang`
 
-Similar al ejemplo anterior, podemos extraer los atributos de las etiquetas `hreflang`. Para ello, necesitamos dós fórmulas:
+Similar al ejemplo anterior, podemos extraer los atributos de las etiquetas `hreflang`. Para ello, necesitamos dos fórmulas:
 
 ```vbnet
 =IMPORTXML(A2, "//link[@hreflang]/@hreflang")
@@ -116,7 +116,7 @@ Similar al ejemplo anterior, podemos extraer los atributos de las etiquetas `hre
 
 Esta primera fórmula nos da la lista de idiomas que contienen las etiquetas hreflang en una URL, según el orden de aparición en el código HTML.
 
-Para obtener la lista de URLs a donde apuntan esos atributos hreflang, necesitamos la siguiente fórmula:
+Para obtener la lista de URL a donde apuntan esos atributos hreflang, necesitamos la siguiente fórmula:
 
 ```vbnet
 =IMPORTXML(A2, "//link[@hreflang]/@href")
