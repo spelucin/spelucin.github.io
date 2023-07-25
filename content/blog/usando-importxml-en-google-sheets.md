@@ -1,5 +1,5 @@
 ---
-title: Usando IMPORTXML En Google Sheets
+title: ¿Cómo usar IMPORTXML en Google Sheets?
 date: 2023-07-25T16:30:24.168Z
 description: Guía para utilizar IMPORTXML para extraer data de cualquier sitio web.
 summary: Guía para utilizar IMPORTXML para extraer data de cualquier sitio web.
