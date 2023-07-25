@@ -1,9 +1,8 @@
 ---
 title: "XPath Para el SEO: Guía completa y usos"
-date: 2023-06-12T22:22:45.154Z
+date: 2023-06-12
 description: Aprende a usar XPath para extraer data de sitios web de manera sistemática
-summary: Guía para usar XPath para extraer data de sitios web de manera
-  sistemática y enriquecer tus fuentes de datos SEO.
+summary: Aprende a usar XPath para extraer data de sitios web de manera sistemática
 showSummary: true
 slug: xpath-seo
 tags:
@@ -41,7 +40,7 @@ Para sacarle el jugo a XPath, es importante tener un conocimiento sólido de la 
 
 ### Estructura de nodos en HTML y XML
 
-Antes de entender como extraer contenido usando XPath, es necesario comprender la estructura de los documentos XML y HTML. En el ejemplo de abajo, vemos un documento XML estándar tomado de \[https://www.w3schools.com/xml/xpath_syntax.asp](la web de W3Schools).
+Antes de entender como extraer contenido usando XPath, es necesario comprender la estructura de los documentos XML y HTML. En el ejemplo de abajo, vemos un documento XML estándar tomado de [https://www.w3schools.com/xml/xpath_syntax.asp](la web de W3Schools).
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
