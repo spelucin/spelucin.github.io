@@ -12,4 +12,4 @@ summaryLength = 0
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
-disableFastRender = true
+timeout = 10000000000

@@ -30,7 +30,6 @@ La sintaxis de la fórmula IMPORTXML se conforma de dos partes:
 ```
 
 * URL: Se trata de la URL de la que queremos extraer información. Algunas consideraciones:
-
   * Debe incluir el protocolo (HTTPS o HTTP).
   * Puede ser una URL plana (<https://spelucin.me>) o una referencia a una sola celda (A3).
 * XPath: Consulta de XPath que indica el elemento específico que queremos tomar de ese sitio web. XPath es un lenguaje que permite navegar nodos de HTML y XML. Una consulta de XPath luce de la siguiente manera:
