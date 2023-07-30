@@ -22,9 +22,9 @@ showReadingTime: false
 
 Estoy disponible para ofrecer los siguientes servicios SEO:
 
-1. 🧐 Auditorias SEO.
+1. 🧐 Auditorías SEO.
 2. 🛩️ Migraciones y rediseños web.
-3. 📉 Investigaciones en la caída del trafico.
+3. 📉 Investigaciones en la caída del tráfico.
 
 El costo de los servicios depende de cada proyecto, ero la tasa horaria que manejo esta en torno a los 15 USD.
 
