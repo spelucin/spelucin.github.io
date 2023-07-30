@@ -9,7 +9,6 @@ tags:
   - web scraping
   - xpath
   - xml
-  - google sheets
 ---
 Una de las ventajas más asombrosas de Google Sheets es que es una aplicación web que está conectada a internet y puede interactuar con otros sitios web y API. Esto viene siendo muy útil cuando necesitamos extraer data de sitios web, y gracias a la fórmula `IMPORTXML` se puede escalar esta tarea a miles de URL. En esta guía aprenderemos a utilizarla para scrapear la internet y obtener la data que queramos de cualquier página web.
 
