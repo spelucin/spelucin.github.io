@@ -2,7 +2,7 @@ languageCode = "es-pe"
 languageName = "Español"
 weight = 1
 
-title = "spelucin.me"
+title = "alex spelucin"
 copyright = "&copy; 2023 - Alex Spelucín"
 
 [params]
@@ -18,7 +18,7 @@ copyright = "&copy; 2023 - Alex Spelucín"
 [author]
   name = "Alex Spelucín"
   image = "img/alex-spelucin-consultor-seo.jpg"
-  headline = "Consultor SEO"
+  headline = "Consultor SEO Técnico"
   bio = "Consultor SEO, especialista en SEO Técnico y análisis de datos de Perú. Cinco años de aprender y desaprender sobre los motores de búsqueda. Programador aficionado de JavaScript. Padre y esposo orgulloso."
   links = [
     { linkedin = "https://www.linkedin.com/in/spelucin/" },

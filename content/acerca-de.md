@@ -1,9 +1,9 @@
 ---
 title: "Acerca de mí"
-description: "Mi nombre es Alex Spelucín, soy un consultor SEO ubicado en Lima, Perú. Detesto escribir meta descripciones."
+description: "Mi nombre es Alex Spelucín, soy un consultor en SEO Técnico ubicado en Lima, Perú. Detesto escribir meta descripciones."
 date: 2022-09-20
 showAuthor: false
-showTableOfContents: false
+showTableOfContents: true
 showPagination: false
 sharingLinks: false
 showComments: false
@@ -12,18 +12,23 @@ showWordCount: false
 showReadingTime: false
 ---
 
-
 👋🏽, gracias por pasarte por esta sección de la web. No soy la clase de persona que le guste hablar sobre sí misma (y menos en un espacio tan público como la web), así que trataré de ser lo más conciso posible:
 
 1. Mi nombre es Alex. Soy especialista en SEO desde hace 5 años. Actualmente me desempeño como líder de SEO y analítica web en [Picnic](https://picnic.pe/), además de ser consultor SEO independiente (o freelance, como dice la chaviza) desde hace 3 años.
 2. Mi área principal de desempeño es el SEO Técnico. Me centro en analizar y optimizar los elementos tecnológicos de un sitio web para hacerle escalar en los buscadores como Bing o Google. Por otro lado, disfruto de automatizar procesos usando Google Sheets y Apps Script.
 3. He trabajado con clientes en rubros competitivos como banca, salud, inmobiliaria y comercio electrónico. Algunos ejemplos de empresas que han trabajado conmigo son [Scotiabank](https://www.scotiabank.com.pe/), [Ripley](https://simple.ripley.com.pe/), [Financiera Oh](https://tarjetaoh.pe/) y [Tani Salud](https://www.tanisalud.com/).
-4. **Ofrezco servicios a título de independiente. Me centro en los sitios web orientados a generar leads, citas y registros en su sitio web. Puedes conocer más sobre mi oferta en la página de [servicios de posicionamiento web](/servicios).**
-5. Fuera del trabajo, tengo la suerte de estar casado con la mujer más hermosa del mundo y de ser padre de una niña a la que amo con todo mi corazón. Además, soy un apasionado de los juegos de pelea como The King of Fighters o Tekken. De igual manera disfruto de las MMA y todos los deportes de combate. También me gusta armar modelos de Gunpla y Gundam, aunque solo tenga un modelo.
+
+## Servicios ofrecidos
+
+Estoy disponible para ofrecer los siguientes servicios SEO:
+
+1. 🧐 Auditorias SEO.
+2. 🛩️ Migraciones y rediseños web.
+3. 📉 Investigaciones en la caída del trafico.
+
+El costo de los servicios depende de cada proyecto, ero la tasa horaria que manejo esta en torno a los 15 USD.
 
 ## Contacto
 
 - Me puedes seguir mediante [{{< icon "mastodon" >}} Mastodon](https://mstdn.social/@spelucin), [{{< icon "linkedin" >}} LinkedIn](https://www.linkedin.com/in/spelucin/) o [{{< icon "github" >}} GitHub](https://github.com/spelucin).
-- **Si te interesa empezar a explorar que oportunidades tiene el SEO para tu negocio, puedes [agendar una reunión conmigo](https://tidycal.com/spelucin/seo-exploracion-30-min). Conversaremos sobre tu negocio, tu sitio web y como podemos hacer para que las personas correctas te encuentren.**
 - Si el contenido o los recursos de este sitio web te han sido útiles, considera apoyarme con [una taza de café ☕](https://www.buymeacoffee.com/spelucin).
-

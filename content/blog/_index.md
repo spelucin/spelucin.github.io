@@ -1,5 +1,5 @@
 ---
-title: "Blog sobre SEO"
+title: "Blog sobre SEO Técnico"
 description: "Bienvenido a mi blog, en donde hablo sobre cómo se puede hacer SEO usando la data y la tecnología"
 date: 2022-06-13T20:55:37+01:00
 draft: false
