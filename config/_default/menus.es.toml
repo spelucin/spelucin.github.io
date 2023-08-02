@@ -31,11 +31,6 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
-   name = "Etiquetas"
-   pageRef = "tags"
-   weight = 10
-
-[[footer]]
    name = "Privacidad"
    pageRef = "privacidad"
    weight = 20
