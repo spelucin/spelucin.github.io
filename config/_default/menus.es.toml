@@ -11,6 +11,16 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Consultoría SEO"
+  pageRef = "consultoria-seo"
+  weight = 10
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 20
+
+[[main]]
   name = "Acerca de"
   pageRef = "acerca-de"
   weight = 30
@@ -23,6 +33,11 @@
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+   name = "Etiquetas"
+   pageRef = "tags"
+   weight = 10
 
 [[footer]]
    name = "Privacidad"

@@ -20,17 +20,7 @@ showReadingTime: false
 
 ## Servicios ofrecidos
 
-Estoy disponible para ofrecer los siguientes servicios SEO:
-
-1. 🧐 Auditorías SEO.
-2. 🛩️ Migraciones y rediseños web.
-3. 📉 Investigaciones en la caída del tráfico.
-
-{{< button href="https://tidycal.com/spelucin/seo-exploracion-30-min" target="_self" >}}
-Trabajemos juntos
-{{< /button >}}
-
-El costo de los servicios depende de cada proyecto. La tasa horaria que manejo esta en torno a los 15 USD.
+Consulta la página de [servicios SEO](/consultoria-seo/) para saber más sobre **cómo el posicionamiento web puede ayudar a tu negocio**. El costo de los servicios **depende de cada proyecto**. La tasa horaria que manejo esta en torno a los **18 USD**.
 
 ## Contacto
 

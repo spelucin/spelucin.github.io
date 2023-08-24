@@ -2,7 +2,7 @@ languageCode = "es-pe"
 languageName = "Español"
 weight = 1
 
-title = "alex spelucin"
+title = "spelucin.me"
 copyright = "&copy; 2023 - Alex Spelucín"
 
 [params]
@@ -23,6 +23,5 @@ copyright = "&copy; 2023 - Alex Spelucín"
   links = [
     { linkedin = "https://www.linkedin.com/in/spelucin/" },
     { github = "https://github.com/spelucin" },
-    { mastodon = "https://mstdn.social/@spelucin" },
-    { email = "spelucinalex@gmail.com" }
+    { mastodon = "https://mstdn.social/@spelucin" }
   ]
