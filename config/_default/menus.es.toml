@@ -26,8 +26,8 @@
   weight = 30
 
 [[main]]
-  name = "Contacto"
-  url = "https://tidycal.com/spelucin/seo-exploracion-30-min"
+  name = "Agéndame"
+  pageRef = "contacto"
   weight = 40
 
 # -- Footer Menu --

@@ -28,7 +28,7 @@ Si tu negocio se encuentra en alguna de estas situaciones:
 - ❌ Busco mi sitio web en Google, pero solo me sale cuando pongo el nombre de mi marca.
 - ❌ Mis contenidos en redes sociales ya no generan tanto negocio como antes.
 
-**✨ Ha llegado la hora de invertir en poscionamiento web**. Aplicando el SEO a tu negocio, lograremos solucionar estos problemas y generar más ingresos para tu empresa.
+**✨ Ha llegado la hora de invertir en posicionamiento web**. Aplicando el SEO a tu negocio, lograremos solucionar estos problemas y generar más ingresos para tu empresa.
 
 ## ¿Por qué hacer SEO si necesitas generar leads o citas en línea?
 
@@ -70,25 +70,28 @@ Mi objetivo es crear una estrategia adaptada a las necesidades de tu negocio. Mi
 
 Lo que dicen algunas de las personas que trabajaron conmigo:
 
+> ⭐⭐⭐⭐⭐
 > Alex tiene un gran manejo y análisis SEO orientado a los resultados en posicionamiento. Así mismo, su compromiso y orientación al servicio nos dió seguridad en cada etapa del proyecto.
 > \
 > \- Alexis Pinedo, Product Owner en LeaseIn
 
 <!-- -->
+> ⭐⭐⭐⭐⭐
 > Alex es un profesional SEO con gran conocimiento técnico y sentido crítico. Tuvimos oportunidad de optimizar un sitio enfocado en una vertical complicada como lo es banca. Se enfoco en las necesidades del negocio y en conjunto desarrollamos una estrategia de posicionamiento orgánico efectiva. También debo destacar su compromiso y la forma profesional en que lleva sus proyectos.
 > \
 > \- Miguel Huahuala, SEO & Content Specialist en Scotiabank
 
 <!-- -->
+> ⭐⭐⭐⭐⭐
 > Alex es un excelente profesional con un extenso conocimiento a nivel técnico, se capacita constantemente en SEO y en temas de tecnología complementarios a este, logrando intersecciones de conocimiento fascinantes sin perder el foco en el crecimiento del negocio y los objetivos del cliente.
 > \
 > \- Darío Vergara, Consultor SEO en Attach Media
 
 ## Trabajemos juntos
 
-No esperes más para llevar tu negocio al siguiente nivel. Estoy listos para trabajar contigo y crear una estrategia de posicionamiento web personalizada para la generación de leads. Permíteme ayudarte a alcanzar tus metas y hacer crecer tu negocio de manera sostenible. ¡Agend auna reunión hoy mismo y comienza a ver los resultados que deseas!
+No esperes más para llevar tu negocio al siguiente nivel. Estoy listos para trabajar contigo y crear una estrategia de posicionamiento web personalizada para la generación de leads. Permíteme ayudarte a alcanzar tus metas y hacer crecer tu negocio de manera sostenible. ¡Agenda una reunión hoy mismo y comienza a ver los resultados que deseas!
 
-{{< button href="https://tidycal.com/spelucin/seo-exploracion-30-min" target="_self" >}}
+{{< button href="/contacto/" target="_self" >}}
 Agendar reunión 🡥
 {{< /button >}}
 
@@ -101,7 +104,7 @@ Si. Solo contácteme a mi correo o mediante LinkedIn.
 ¡Si! Tengo disponibilidad durante el 2023 para nuevos clientes y trabajos.
 
 - _¿Cuál es tu tasa horaria?_ \
-Depende del proyecto y del nicho a trabajar, pero está en torno a los USD 15.00.
+Depende del proyecto y del nicho a trabajar, pero está en torno a los USD 18.00.
 
 - _¿Te interesa comprar enlaces en otras webs?_ \
 No. Y no me contactes al respecto.
