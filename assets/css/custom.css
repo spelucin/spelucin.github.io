@@ -4,16 +4,6 @@
     display: swap;
 }
 
-@font-face {
-    font-family: 'Fira Code Regular';
-    src: url('/fonts/FiraCode-Regular.ttf');
-    display: swap;
-}
-
 html {
     font-family: 'Ubuntu Regular', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fira Code Regular', sans-serif;
 }

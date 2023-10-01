@@ -1,27 +1,24 @@
-languageCode = "es-pe"
+languageCode = "es"
 languageName = "Español"
+languageDirection = "ltr"
 weight = 1
 
 title = "spelucin.me"
 copyright = "&copy; 2023 - Alex Spelucín"
 
 [params]
-  isoCode = "es-PE"
-  displayName = ":flag-pe:"
-  rtl = false
-
   dateFormat = "2 January 2006"
 
   mainSections = ["blog"]
-  description = "Consultor SEO, especialista en SEO Técnico y análisis de datos. Trabajando desde Lima, Perú."
+  description = "Consultor SEO, orientado a sitios que necesitan generar leads y citas en linea. Trabajando desde Lima, Perú."
 
 [author]
   name = "Alex Spelucín"
   image = "img/alex-spelucin-consultor-seo.jpg"
-  headline = "Consultor SEO Técnico"
-  bio = "Consultor SEO, especialista en SEO Técnico y análisis de datos de Perú. Cinco años de aprender y desaprender sobre los motores de búsqueda. Programador aficionado de JavaScript. Padre y esposo orgulloso."
+  headline = "Especialista en SEO ténico y análisis de datos"
+  bio = "Consultor SEO. Tratando de entender a Google desde hace 5 años. Me paso demasiado tiempo en Google Sheets. Padre orgulloso y esposo enamorado."
   links = [
     { linkedin = "https://www.linkedin.com/in/spelucin/" },
     { github = "https://github.com/spelucin" },
-    { mastodon = "https://mstdn.social/@spelucin" }
+    { mastodon = "https://mstdn.social/@spelucin" },
   ]

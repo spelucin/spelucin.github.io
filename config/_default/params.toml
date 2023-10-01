@@ -7,7 +7,7 @@
 
 colorScheme = "cyan"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
@@ -24,7 +24,7 @@ fingerprintAlgorithm = "sha256"
 [footer]
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -46,7 +46,7 @@ fingerprintAlgorithm = "sha256"
   showTableOfContents = true
   showTaxonomies = true
   showWordCount = true
-  showComments = false
+  showComments = true
   sharingLinks = ["twitter", "mastodon", "reddit", "linkedin", "email"]
 
 [list]
@@ -54,7 +54,7 @@ fingerprintAlgorithm = "sha256"
   showSummary = false
   showTableOfContents = false
   showTaxonomies = true
-  groupByYear = true
+  groupByYear = false
   paginationWidth = 1
 
 [sitemap]
@@ -72,3 +72,7 @@ fingerprintAlgorithm = "sha256"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[googleTagManager]
+  containerID = "GTM-T676H8K5"
+  dataLayer = true
