@@ -1,10 +1,10 @@
 ---
 title: "Alex Spelucín"
-description: "Especialista en SEO técnico y análisis de datos, trabajando desde Lima, Perú."
+description: "Especialista en analítica digital y web, trabajando desde Lima, Perú."
 ---
 
-👋, soy un consultor SEO de Lima, Perú, especialista en SEO Técnico y análisis de datos. Actualmente me desempeño como consultor independiente de posicionamiento web.
+Analista digital y web. Me encargo de emplear la data para mostrarle el camino a los equipos de marketing digital. Soy especialista certificado en Google Marketing Platform. Actualmente, me desarrollo como consultor independiente de analítica digital, de producto y web.
 
-{{< button href="/consultoria-seo/" target="_self" >}}
+{{< button href="/seo-ecommerce/" target="_self" >}}
 Trabajemos juntos →
 {{< /button >}}

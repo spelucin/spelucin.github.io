@@ -10,13 +10,13 @@ copyright = "&copy; 2023 - Alex Spelucín"
   dateFormat = "2 January 2006"
 
   mainSections = ["blog"]
-  description = "Consultor SEO, orientado a sitios que necesitan generar leads y citas en linea. Trabajando desde Lima, Perú."
+  description = "Analista digital web. Me encargo de que la data sea la gasolina de tu marketing digital. Trabajando desde Lima, Perú"
 
 [author]
   name = "Alex Spelucín"
-  image = "img/alex-spelucin-consultor-seo.jpg"
-  headline = "Especialista en SEO ténico y análisis de datos"
-  bio = "Consultor SEO. Tratando de entender a Google desde hace 5 años. Me paso demasiado tiempo en Google Sheets. Padre orgulloso y esposo enamorado."
+  image = "img/alex-spelucin-analista-digital.jpg"
+  headline = "Especialista en analítica digital y web"
+  bio = "Analista digital y web. Especializado en Google Marketing Platform. Relación de amor-odio con Google Tag Manager, besito para BigQuery. Padre orgulloso y esposo enamorado."
   links = [
     { linkedin = "https://www.linkedin.com/in/spelucin/" },
     { github = "https://github.com/spelucin" },
