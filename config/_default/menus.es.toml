@@ -11,17 +11,17 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "📈 Servicios"
+  name = "Servicios"
   pageRef = "servicios"
   weight = 10
 
 [[main]]
-  name = "✏️ Blog"
+  name = "Blog"
   pageRef = "blog"
   weight = 20
 
 [[main]]
-  name = "👓 Acerca de"
+  name = "Acerca de"
   pageRef = "acerca-de"
   weight = 30
 
