@@ -38,30 +38,3 @@
    name = "Privacidad"
    pageRef = "privacidad"
    weight = 20
-
-[[footer]]
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/in/spelucin/"
-  weight = 30
-  [footer.params]
-    icon = "linkedin"
-    showName = false
-    target = "_blank"
-
-[[footer]]
-  name = "GitHub"
-  url = "https://github.com/spelucin/"
-  weight = 40
-  [footer.params]
-    icon = "github"
-    showName = false
-    target = "_blank"
-
-[[footer]]
-  name = "Mastodon"
-  url = "https://mstdn.social/@spelucin"
-  weight = 50
-  [footer.params]
-    icon = "mastodon"
-    showName = false
-    target = "_blank"

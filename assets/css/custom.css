@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'Ubuntu Regular';
-    src: url('/fonts/UbuntuRegular.ttf');
+    font-family: 'IBM Plex Sans';
+    src: url('/fonts/IBMPlexSans-Regular.ttf');
     display: swap;
 }
 
 html {
-    font-family: 'Ubuntu Regular', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
 }

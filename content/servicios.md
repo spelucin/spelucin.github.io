@@ -14,17 +14,19 @@ slug: servicios
 ---
 
 {{< lead >}}
-Mi misión como analista digital es hacer sentido de los datos generados por tus campañas y activos digitales, con el objetivo de que estos sean el vehículo del crecimiento de tu negocio.
+Mi misión como analista digital es hacer sentido de los datos generados por tus campañas y activos digitales, con el objetivo de que estos sean el vehículo del crecimiento de tu negocio. Me encargo de que la data genere valor dentro de tu equipo de marketing.
 {{< /lead >}}
 
-Tengo cerca de cinco años trabajando en marketing digital y durante este tiempo la única constante que nos ha llevado al éxito es la data. Logremos que la data sea la gasolina de tu marketing digital y eliminemos el tanteo de tus esfuerzos de marketing. Brindo los siguientes servicios:
+Tengo cerca de cinco años trabajando en marketing digital y durante este tiempo la única constante que nos ha llevado al éxito es el análisis de los datos que proceden de los esfuerzos de nuestro marketing.
+
+**Logremos que la data sea la gasolina de tu marketing digital y eliminemos el tanteo de tus esfuerzos de marketing**. Brindo los siguientes servicios a empresas que se toman enserio sus resultados:
 
 - 🧠 Planeamiento de la _estrategia de medición_ para el marketing digital.
 - ⚙️ Configuración, mantenimiento y auditoría de _Google Tag Manager_ y _Google Analytics 4_.
 - 🛩️ Migración de _Universal Analytics_ a _Google Analytics 4_.
 - 📊 Dashboards y reportes automatizados en _Looker Studio_.
 - 🧪 _Experimentación_ digital y _testeo A/B_.
-- 📈 Análisis profundo de campañas usando _BigQuery_ y _R_.
+- 📈 Análisis profundo de campañas de marketing y activos digitales usando _BigQuery_ y _R_.
 
 ## ¿Cómo podemos empezar a trabajar?
 
@@ -36,9 +38,6 @@ La mejor manera de conversar sobre aquello que necesitas medir y mejorar es sepa
 ---
 
 ## Preguntas Frecuentes
-
-- _¿Cómo podemos empezar a trabajar?_ \
-Agenda una reunión conmigo utilizando la esta misma página. Conversemos sobre tu proyecto y busquemos la mejor manera de sacarle el jugo a tu data.
 
 - _¿Cuánto cobras por cada servicio?_ \
 Todo está en torno a la complejidad de cada proyecto, pero una tasa horaria aproximada está en torno a los 18.00 $ por hora.

@@ -48,7 +48,7 @@ Mi stack de herramientas incluye:
 
 ### Este sitio web
 
-Esta web está hecha con [Hugo](https://gohugo.io/) y el tema [Congo por James Panther](https://jpanther.github.io/congo/). No uso ningún CMS para escribir el contenido, solo VS Code y algunos plugins para markdown y corregir la ortografía. Su propósito es el de [plasmar algunos pensamientos](/blog/) sobre el papel de la data en el marketing digital.
+Esta web está hecha con [Hugo](https://gohugo.io/) y el tema [Congo por James Panther](https://jpanther.github.io/congo/). No uso ningún CMS para escribir el contenido, solo VS Code y algunos plugins para markdown y corregir la ortografía. Su propósito es el de [plasmar algunos pensamientos](/blog/) sobre el papel de la data en el marketing digital y de [anunciar mis servicios de análisis de datos para el marketing](/servicios/).
 
 ### Más allá del trabajo
 
