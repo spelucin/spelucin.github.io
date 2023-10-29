@@ -21,11 +21,11 @@ Tengo cerca de cinco años trabajando en marketing digital y durante este tiempo
 
 **Logremos que la data sea la gasolina de tu marketing digital y eliminemos el tanteo de tus esfuerzos de marketing**. Brindo los siguientes servicios a empresas que se toman enserio sus resultados:
 
-- 🧠 Planeamiento de la _estrategia de medición_ para el marketing digital.
+- 🧠 Planeamiento de _estrategia de medición_ para el marketing digital.
 - ⚙️ Configuración, mantenimiento y auditoría de _Google Tag Manager_ y _Google Analytics 4_.
 - 🛩️ Migración de _Universal Analytics_ a _Google Analytics 4_.
 - 📊 Dashboards y reportes automatizados en _Looker Studio_.
-- 🧪 _Experimentación_ digital y _testeo A/B_.
+- 🧪 _Experimentación_ digital y _pruebas A/B_.
 - 📈 Análisis profundo de campañas de marketing y activos digitales usando _BigQuery_ y _R_.
 
 ## ¿Cómo podemos empezar a trabajar?
