@@ -1,6 +1,9 @@
 {{ if not (in (.Site.BaseURL | string) "localhost") }}
 
-
+<!-- make sure the config gets loaded before Klaro -->
+<script defer type="text/javascript" src="/klaro/config.js"></script>
+<script defer type="text/javascript" src="https://cdn.kiprotect.com/klaro/v0.7.18/klaro.js"></script>
+<link rel="stylesheet" href="https://cdn.kiprotect.com/klaro/v0.7.18/klaro.min.css" />
 
 {{ if .Site.Params.googleTagManager.containerID}}
 
