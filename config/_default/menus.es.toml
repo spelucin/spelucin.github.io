@@ -21,9 +21,14 @@
   weight = 20
 
 [[main]]
+  name = "Portafolio"
+  pageRef = "portafolio"
+  weight = 30
+
+[[main]]
   name = "Acerca de"
   pageRef = "acerca-de"
-  weight = 30
+  weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
