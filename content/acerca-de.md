@@ -43,6 +43,7 @@ Mi stack de herramientas incluye:
 - 📑 SQL
 - 🕷️ Debugger de Chrome y extensiones
 - 🗺️ Microsoft Clarity
+- 🖋️ Notion
 
 ## Otras cosas
 
@@ -52,7 +53,7 @@ Esta web está hecha con [Hugo](https://gohugo.io/) y el tema [Congo por James P
 
 ### Más allá del trabajo
 
-Fuera de las horas de trabajo, me dedico plenamente a mi familia compuesta por el [amor de mi vida](https://www.instagram.com/ginieillustrated/) y la bebita más bella que existe. También disfruto de los juegos de pelea (como Street Fighter o Tekken), del Gunpla (aunque solo tenga un modelo, regalo de mi amada Ginger) y de las artes marciales mixtas.
+Fuera de las horas de trabajo, me dedico plenamente a mi familia compuesta por el [amor de mi vida](https://www.instagram.com/ginieillustrated/) y la niña de mis ojos y mi mayor orgullo. También disfruto de los juegos de pelea (como Street Fighter o Tekken), del Gunpla (aunque solo tenga un modelo, regalo de mi amada Ginger) y de las artes marciales mixtas.
 
 ## Contacto
 
