@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Servicios"
+  name = "📈 Servicios"
   pageRef = "servicios"
   weight = 10
 
@@ -21,13 +21,13 @@
   weight = 20
 
 [[main]]
-  name = "Portafolio"
-  pageRef = "portafolio"
+  name = "Acerca de"
+  pageRef = "acerca-de"
   weight = 30
 
 [[main]]
-  name = "Acerca de"
-  pageRef = "acerca-de"
+  name = "Contacto"
+  pageRef = "contacto"
   weight = 40
 
 # -- Footer Menu --
