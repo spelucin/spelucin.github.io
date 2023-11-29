@@ -27,7 +27,7 @@ Tengo cerca de cinco años trabajando en marketing digital y durante este tiempo
 \
 Medir es fácil. Saber que es lo que se debe medir es en donde yace el verdadero reto de establecer una estrategia de medición. Te acompañaré en el proceso de encontrar las métricas que tu negocio necesita, ya sea que necesites generar leads o vender productos mediante comercio electrónico. Todos los negocios digitales necesitan data como motor de sus esfuerzos.
 
-{{< button href="/contacto?servicio=estrategia" target="_blank" >}}
+{{< button href="/contacto?service=estrategia" target="_blank" >}}
 Planea tu medición  →
 {{< /button >}}
 
