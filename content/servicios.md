@@ -27,7 +27,7 @@ Tengo cerca de cinco años trabajando en marketing digital y durante este tiempo
 \
 Medir es fácil. Saber que es lo que se debe medir es en donde yace el verdadero reto de establecer una estrategia de medición. Te acompañaré en el proceso de encontrar las métricas que tu negocio necesita, ya sea que necesites generar leads o vender productos mediante comercio electrónico. Todos los negocios digitales necesitan data como motor de sus esfuerzos.
 
-{{< button href="/contacto?service=estrategia" target="_blank" >}}
+{{< button href="/contacto/?service=estrategia" >}}
 Planea tu medición  →
 {{< /button >}}
 
@@ -37,7 +37,7 @@ Planea tu medición  →
 \
 Google Analytics 4 llegó para quedarse. ¿Por qué no aprovecharlo a su máximo potencial? Me encargaré de instalar, etiquetar, integrar y adaptar Google Analytics 4 a tu negocio. Configuramos eventos, conversiones, audiencias, exploraciones de datos personalizadas y colocamos la data en Google BigQuery para su análisis.
 
-{{< button href="/contacto?service=implementacion" target="_blank" >}}
+{{< button href="/contacto/?service=implementacion" >}}
 Instala GA4 en tu web  →
 {{< /button >}}
 
@@ -47,7 +47,7 @@ Instala GA4 en tu web  →
 \
 Consolida tu data desde el principio y crea una fuente de datos útil para el marketing de tu organización. Mi labor consiste en migrar no solo la cuenta para que la nueva versión funcione en tu sitio web, sino también de crear los eventos necesarios para que se parezca a tu anterior implementación y de marcar las conversiones y audiencias ideales para tu activo web.
 
-{{< button href="/contacto?service=migracion" target="_blank" >}}
+{{< button href="/contacto/?service=migracion" >}}
 Migrar a GA4 ahora →
 {{< /button >}}
 
@@ -57,7 +57,7 @@ Migrar a GA4 ahora →
 \
 La calidad de los datos es vital para tomar decisiones con ellos. Una implementación defectuosa de Google Analytics 4 puede ser desastrosa para llevar el marketing de tu negocio. Me esfuerzo por encontrar y solucionar aquello que está manchando tu instalación de GA4/GTM, además de encontrar oportunidades de mejora para el uso de estas herramientas.
 
-{{< button href="/contacto?service=auditoria" target="_blank" >}}
+{{< button href="/contacto/?service=auditoria" >}}
 Audita mi GA4 →
 {{< /button >}}
 
@@ -67,7 +67,7 @@ Audita mi GA4 →
 \
 Looker Studio es la herramienta preferida por los profesionales del marketing digital, por su poder de conectividad a las distintas herramientas y plataformas usadas en el marketing moderno. Te ayudaré a crear tableros de mando y reportes a medida, ya sea utilizando conectores nativos, BigQuery, bases de datos o conectores de terceros como Supermetrics.
 
-{{< button href="/contacto?service=dashboards" target="_blank" >}}
+{{< button href="/contacto/?service=dashboards" >}}
 Visualiza tu data →
 {{< /button >}}
 
@@ -77,7 +77,7 @@ Visualiza tu data →
 \
 La gestión de etiquetas es una parte esencial del marketing digital en la actualidad. Asegúrate de medir lo correcto mediante una implementación de Google Tag Manager limpia y correctamente documentada. Soy capaz de implementar configuración y eventos de Google Analytics hasta etiquetas personalizadas y plantillas.
 
-{{< button href="/contacto?service=etiquetado" target="_blank" >}}
+{{< button href="/contacto/?service=etiquetado" >}}
 Mídalo todo →
 {{< /button >}}
 
