@@ -1,7 +1,7 @@
 ---
 title: "Etex y la vez que escribí demasiado SQL"
-date: 2023-11-01
-summary: "No demasiado para romper BigQUery pero sí como para quemarme el cerebro."
+date: 2023-12-03
+summary: "No demasiado para romper BigQuery pero sí como para quemarme el cerebro."
 showSummary: true
 showDate: false
 showReadingTime: false
