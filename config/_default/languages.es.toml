@@ -1,15 +1,15 @@
 languageCode = "es"
 languageName = "Español"
-languageDirection = "ltr"
 weight = 1
 
 title = "spelucin.online"
 copyright = "&copy; 2023 - Alex Spelucín"
 
 [params]
-  dateFormat = "2 January 2006"
-
-  mainSections = ["blog"]
+  isoCode = "es"
+  displayName = "es"
+  rtl = false
+  dateFormat = "2 Enero 2006"
   description = "Analista digital web. Me encargo de que la data sea la gasolina de tu marketing digital. Trabajando desde Lima, Perú"
 
 [author]
