@@ -5,6 +5,7 @@ description: "Resumen y ejemplo del uso de UNNEST para analizar datos de eventos
 showSummary: true
 summary: "Resumen y ejemplo del uso de UNNEST para analizar datos de eventos de Google Analytics 4 en el export de BigQuery."
 tags: ["google analytics 4", "bigquery", "sql"]
+slug: unnest-ga4-bigquery
 ---
  
 Una de las barreras que existe entre la versión anterior de Google Analytics y la nueva, es que la data de eventos no es tan accesible como antes. El nuevo modelo se centra solo en dos alcances: **eventos** y **usuarios**. Pese a que el modelo de GA4 es más flexible para recoger información precisa, ya no es tan accesible desde herramientas como Looker Studio.
@@ -19,7 +20,7 @@ Para seguir este artículo, debes activar la exportación de datos de Google Ana
 
 Uno de los aspectos más complejos de trabajar con la exportación de datos es que esta hace uso de arrays para almacenar la data de eventos. Estas arrays se ven así:
 
-![Captura de pantalla de la interfaz de BigQuery mostrando una tabla de ejemplo de cómo luce la data](./ga4-bigquery-export-arrays.png "Los parámetros y valores están contenidos dentro de arrays, en donde cada evento tiene un nombre y varios parámetros")
+![Captura de pantalla de la interfaz de BigQuery mostrando una tabla de ejemplo de cómo luce la data](./img/ga4-bigquery-export-arrays.png "Los parámetros y valores están contenidos dentro de arrays, en donde cada evento tiene un nombre y varios parámetros")
 
 Aquí es cuando entra el operador `UNNEST`. **Este operador toma las filas de un array y las convierte en columnas de una tabla**. Para efectos de este ejercicio, esto es todo lo que tenemos que saber para empezar a usarlo. La documentación de BigQuery tiene una [sección detallada sobre el operador `UNNEST`](https://cloud.google.com/bigquery/docs/arrays?hl=es-419#flattening_arrays).
 
@@ -34,7 +35,7 @@ SELECT * FROM `proyecto.analytics_12345689.events_*`,
 UNNEST(event_params) as param
 ```
 
-Lo que haría esta consulta es extraer los valores de los parámetros de _cada fila de evento_ (si, me refiero a cada registro de eventos) y extraerlos todos en una nueva columna, _repitiendo el evento al que le pertenece las veces que sea necesario_. Cómo podrás comprender, eso no es muy práctico ni barato. Por ello, necesitamos ajustar un poco la consulta, de manera que limitemos las columnas que vamos a seleccionar. La consulta empieza a tomar forma de la siguiente manera:
+Lo que haría esta consulta es extraer los valores de los parámetros de _cada fila de evento_ y extraerlos todos en una nueva columna, _repitiendo el evento al que le pertenece las veces que sea necesario_. Cómo podrás comprender, eso no es muy práctico ni barato. Por ello, necesitamos ajustar un poco la consulta, de manera que limitemos las columnas que vamos a seleccionar. La consulta empieza a tomar forma de la siguiente manera:
 
 ```sql
 SELECT event_name, param 
@@ -44,13 +45,13 @@ UNNEST(event_params) as param
 
 El resultado de esta consulta sobre un set de datos de GA4 (en este caso, los datos de prueba de Google Shop) luce así:
 
-![Captura de pantalla de la interfaz de BigQuery mostrando un ejemplo de la función UNNEST aplicada](./ga4-bigquery-unnest-example.jpg "Ahora cada valor de parámetro es una columna según el tipo de valor de los parámetros.")
+![Captura de pantalla de la interfaz de BigQuery mostrando un ejemplo de la función UNNEST aplicada](./img/ga4-bigquery-unnest-example.jpg "Ahora cada valor de parámetro es una columna según el tipo de valor de los parámetros.")
 
 Tenemos algo mucho mejor que un montón de data anidada. Hasta este punto, puedes cerrar esta página y ponerte a hacer algo mejor. Pero, ambos sabemos que si estás leyendo este post, _no tienes nada mejor que hacer_ ¯\\\_(ツ)\_/¯. Por ello, te invito a conocer la manera más útil de extraer esta data: **usando sub-consultas**.
 
 ### Usando `SELECT FROM UNNEST` dentro de una consulta de datos de BigQuery
 
-![Meme de Xzibit mostrando un chiste sobre SQL](./subqueries-sql-meme.jpg "No me decepcioné al buscar este meme, sabía que a alguien se le había ocurrido primero.")
+![Meme de Xzibit mostrando un chiste sobre SQL](./img/subqueries-sql-meme.jpg "No me decepcioné al buscar este meme, sabía que a alguien se le había ocurrido primero.")
 
 La manera más efectiva de solucionar este problema hace uso de sub-consultas: tal cual dice Xzibit arriba, consultas dentro de una consulta. La explicación de por qué esto es así la tiene [Todd Kerpelman](https://medium.com/@kerp), quien explica en detalle por qué [el uso de SELECT FROM UNNEST](https://medium.com/firebase-developers/how-to-use-select-from-unnest-to-analyze-multiple-parameters-in-bigquery-for-analytics-5838f7a004c2) en una serie de sub-consultas es la manera más ordenada de acceder a la data de eventos de GA4.
 
@@ -93,6 +94,6 @@ FROM `firebase-public-project.analytics_153293282.events_20181003`
 WHERE event_name = "level_complete_quickplay"
 ```
 
-![Ejemplo de la interfaz de BigQuery](./unnest-bigquery-example.jpg "Voliá! Allí está nuestra data de eventos, finalmente.")
+![Ejemplo de la interfaz de BigQuery](./img/unnest-bigquery-example.jpg "Voliá! Allí está nuestra data de eventos, finalmente.")
 
 Bien, ahora que ya sabemos cómo podemos extraer esta data de eventos, podemos calcular promedios, desviaciones estándar y utilizar esta data a nuestro antojo. Incluso, podemos llevárnosla a Looker Studio, pero ese es un tema para otro día.
