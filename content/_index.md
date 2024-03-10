@@ -3,12 +3,12 @@ title: "Alex Spelucín"
 description: "Especialista en analítica digital y web, trabajando desde Lima, Perú."
 ---
 
-Analista digital y web. Me encargo de emplear la data para mostrarle el camino a los equipos de marketing digital. Soy especialista certificado en Google Marketing Platform. Actualmente, me desarrollo como consultor independiente de analítica digital, de producto y web.
+Analista digital y growth marketer. Me encargo de emplear la data para mostrarle el camino a los equipos de marketing digital, con el objetivo de rentabilizar sus acciones de marketing. Actualmente, me desempeño como analista digital independiente.
 
 {{< button href="/servicios/" target="_self" >}}
-💪 Trabajemos juntos →
+⚡ Trabajemos juntos →
 {{< /button >}}
 
-{{< button href="/files/CV_Alex_Spelucin_Nov_23.pdf" target="_self" >}}
+{{< button href="/files/CV_Alex_Spelucin_2024.pdf" target="_self" >}}
 Ver mi CV →
 {{< /button >}}

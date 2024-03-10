@@ -17,8 +17,8 @@ slug: contacto
 La mejor forma de contactar conmigo es separar una reunión en mi calendario. Utiliza la interfaz de abajo para encontrar un horario que se ajuste a las agendas de ambos.
 {{< /lead >}}
 
-<div class="tidycal-embed" data-path="spelucin/data-marketing-general"></div>
-<script src="https://assets.tidycal.com/js/embed.js" async></script>
+<div class="tidycal-embed" data-path="spelucin/analitica-digital-30-min"></div>
+<script src="https://asset-tidycal.b-cdn.net/js/embed.js" async></script>
 
 También me puedes encontrar en:
 

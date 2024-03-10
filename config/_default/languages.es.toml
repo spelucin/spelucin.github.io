@@ -3,7 +3,7 @@ languageName = "Español"
 languageDirection = "ltr"
 weight = 1
 
-title = "spelucin.me"
+title = "spelucin.online"
 copyright = "&copy; 2023 - Alex Spelucín"
 
 [params]
@@ -15,8 +15,8 @@ copyright = "&copy; 2023 - Alex Spelucín"
 [author]
   name = "Alex Spelucín"
   image = "img/alex-spelucin-analista-digital.jpg"
-  headline = "Especialista en analítica digital y web"
-  bio = "Analista digital y web. Especializado en Google Marketing Platform. Relación de amor-odio con Google Tag Manager, besito para BigQuery. Padre orgulloso y esposo enamorado."
+  headline = "Analista digital y growth marketer"
+  bio = "Analista digital y growth marketer. Malabreando datos para saber qué funciona (y qué no) en el marketing digital. Padre orgulloso y esposo enamorado."
   links = [
     { linkedin = "https://www.linkedin.com/in/spelucin/" },
     { github = "https://github.com/spelucin" },

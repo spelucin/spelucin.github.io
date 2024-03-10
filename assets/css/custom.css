@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'IBM Plex Sans';
-    src: url('/fonts/IBMPlexSans-Regular.ttf');
+    font-family: 'Inter';
+    src: url('/fonts/Inter-Regular.ttf');
     display: swap;
 }
 
 html {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
