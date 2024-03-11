@@ -5,7 +5,7 @@ theme = "congo"
 # https://jpanther.github.io/congo/docs/getting-started/
 
 
-baseURL = "https://spelucin.online/"
+baseURL = "https://spelucin.github.io/"
 defaultContentLanguage = "es"
 
 enableRobotsTXT = false
