@@ -1,4 +1,4 @@
-var klarConfig = {
+var klaroConfig = {
     acceptAll: true,
     services: [
         {
