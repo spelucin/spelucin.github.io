@@ -8,7 +8,3 @@ Analista digital y growth marketer. Me encargo de emplear la data para mostrarle
 {{< button href="/servicios/" target="_self" >}}
 ⚡ Trabajemos juntos →
 {{< /button >}}
-
-{{< button href="/files/CV_Alex_Spelucin_2024.pdf" target="_self" >}}
-Ver mi CV →
-{{< /button >}}
