@@ -17,7 +17,7 @@ slug: acerca-de
 
 Me encargo de crear e implementar **estrategias de medición** de principio a fin, es decir, desde la recolección de data hasta la visualización de datos y generación de _insights_. Me especializo en el lado de medición web, usando herramientas como _Google Analytics 4_, _BigQuery_, _Google Tag Manager_ y _Looker Studio_ para transmitir el valor de la interacción web.
 
-Actualmente me encuentro trabajando como **líder del equipo de analítica digital** en [Picnic](https://picnic.pe/), de la mano de clientes en los rubros de inmobiliaria y construcción. También me desempeño como **analista digital independiente**, habiendo trabajado con clientes en los rubros de banca y comercio electrónico.
+Actualmente me encuentro trabajando como **analista digital independiente**, de la mano de multiples agencias de marketing. También me desempeño como **analista digital independiente**, habiendo trabajado con clientes en los rubros de banca y comercio electrónico.
 
 ## ¿Cómo llegue hasta aquí?
 
